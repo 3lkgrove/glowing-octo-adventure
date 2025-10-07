@@ -1,4 +1,4 @@
-# glowing-octo-adventure
+# RP2040-ZERO Filament Dryer
 ⚠️ Essential Hardware Considerations
 Heater Control: A 150W PTC heater will draw about 12.5A at 12V. You MUST use a logic-level Power MOSFET (or solid-state relay) with a suitable current rating (e.g., 30A or more) and an appropriate heatsink to switch the heater's 12V power. Use Pulse Width Modulation (PWM) from the RP2040 to control the heater's power for temperature regulation.
 
