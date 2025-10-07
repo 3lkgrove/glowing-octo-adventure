@@ -42,7 +42,7 @@ If the humidity takes too long to reach 30%, the value is likely too low. Increa
 
 Start with 5.0 and observe the system's performance.
 
-Adjust Target Humidity
+# Adjust Target Humidity
 How to Use It from the CLI/REPL
 Upload the modified main.py to your RP2040-ZERO.
 
