@@ -17,9 +17,9 @@ Component	RP2040-ZERO Pin	Notes
 DHT22 Data	GPIO 28	Use a pull-up resistor (4.7k Ω)
 OLED SDA	GPIO 0	I2C Bus 0
 OLED SCL	GPIO 1	I2C Bus 0
-Heater MOSFET Gate	GPIO 16	Connect to the gate of the MOSFET
-Fan MOSFET Gate	GPIO 17	Connect to the gate of the Fan MOSFET
-RP2040 Power	3.3V / GND	MUST use a regulated 3.3V supply!
+Heater MOSFET Gate	GPIO 7	Connect to the gate of the MOSFET
+Fan MOSFET Gate	GPIO 8	Connect to the gate of the Fan MOSFET
+RP2040 Power	5V / GND	Onboard PS. See attached schematic
 Heater Power	12V PS via MOSFET	
 Fan Power	12V PS via MOSFET	
 
