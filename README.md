@@ -66,5 +66,5 @@ Run the main program again:
 (If your code is in a while True loop outside a function, you might need to use a soft reset (Ctrl+D) to restart the program using the new global value. The best practice is to put your main loop inside a function, e.g., def run(): and then call main.run()).
 
 
-![PCB](/images/PCB_ISO_0.png)
-![PCB](/images/PCB_ISO_1.png)
+![PCB](/Images/PCB_ISO_0.png)
+![PCB](/Images/PCB_ISO_1.png)
