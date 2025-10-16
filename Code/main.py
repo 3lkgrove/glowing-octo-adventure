@@ -8,8 +8,8 @@ import ssd1306
 # --- Configuration ---
 
 # Pin Assignments (Modify these to match your wiring)
-HEATER_PIN = 16  # GPIO for MOSFET control (Heater PWM)
-FAN_PIN = 17     # GPIO for MOSFET control (Fans On/Off)
+HEATER_PIN = 7  # GPIO for MOSFET control (Heater PWM)
+FAN_PIN = 8     # GPIO for MOSFET control (Fans On/Off)
 DHT_PIN = 28     # GPIO for DHT22 Data
 I2C_SDA_PIN = 0  # I2C SDA for OLED
 I2C_SCL_PIN = 1  # I2C SCL for OLED
