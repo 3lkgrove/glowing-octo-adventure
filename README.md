@@ -67,4 +67,4 @@ Run the main program again:
 
 # PCB Layout
 ![PCB](/Images/PCB_ISO_0.png)
-![PCB](/Images/PCB_ISO_1.png)
+![SCHEMATIC](/Images/PCB_SCH_0.png)
